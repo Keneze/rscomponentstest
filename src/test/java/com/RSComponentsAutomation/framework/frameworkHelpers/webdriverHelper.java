@@ -40,7 +40,7 @@ public class webdriverHelper extends EventFiringWebDriver {
     }
 
     public static WebDriver buildChromeBrowser() throws Throwable {
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\tools\\chromedriver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"\\lib\\chromedriver\\chromedriver.exe");
         DesiredCapabilities capabilities = getChromeDesiredCapabilities();
         ChromeDriver chrome = new ChromeDriver(capabilities);
         chrome.manage().window().maximize();
@@ -48,7 +48,7 @@ public class webdriverHelper extends EventFiringWebDriver {
     }
 
     public static WebDriver buildFireFoxBrowser() {
-        System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"\\tools\\geckodriver\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"\\lib\\geckodriver\\geckodriver.exe");
         DesiredCapabilities capabilities = getFireFoxDesiredCapabilities();
         FirefoxDriver firefox = new FirefoxDriver(capabilities);
         firefox.manage().window().setSize(new Dimension(1280, 1024));
@@ -56,7 +56,7 @@ public class webdriverHelper extends EventFiringWebDriver {
     }
 
     public static WebDriver buildIEBrowser() {
-        System.setProperty("webdriver.ie.driver", System.getProperty("user.dir")+"\\tools\\iedriver\\IEDriverServer.exe");
+        System.setProperty("webdriver.ie.driver", System.getProperty("user.dir")+"\\lib\\iedriver\\IEDriverServer.exe");
         DesiredCapabilities capabilities = getInternetExploreDesiredCapabilities();
         InternetExplorerDriver IE = new InternetExplorerDriver(capabilities);
         IE.manage().window().setSize(new Dimension(1280, 1024));

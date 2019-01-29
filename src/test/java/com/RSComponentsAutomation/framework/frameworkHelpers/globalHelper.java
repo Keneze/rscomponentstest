@@ -89,7 +89,7 @@ public class globalHelper {
     }
 
     public String getValueFromPropsFile(String key) throws IOException {
-        prop.load(new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\resources\\locales\\general.properties"));
+        prop.load(new FileInputStream(System.getProperty("user.dir")+"\\src\\test\\resources\\properties\\general.properties"));
         return prop.getProperty(key);
     }
 
