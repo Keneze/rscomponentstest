@@ -1,6 +1,6 @@
-package com.RSComponentsAutomation.framework.pageObjects;
+package com.rscomponents.automationframework.pageObjects;
 
-import com.RSComponentsAutomation.framework.helpers.globalHelper;
+import com.rscomponents.automationframework.helpers.globalHelper;
 import org.openqa.selenium.By;
 
 import java.io.IOException;

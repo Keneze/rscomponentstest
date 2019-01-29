@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="211.215946">
-<testcase classname="As a registered or guest user, I want to be able to complete order successfully" name="As a registered customer I am able to create oder successfully" time="69.862328">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="200.835112">
+<testcase classname="As a registered or guest user, I want to be able to complete order successfully" name="As a registered customer I am able to create oder successfully" time="60.279667">
 <system-out><![CDATA[Given I am on RS Components homepage as registered..........................passed
 When I search for 'wires'...................................................passed
 And I add first product to basket from search results.......................passed
@@ -12,7 +12,7 @@ And I add my card cvv information...........................................pass
 Then I verify I can place order.............................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="As a registered or guest user, I want to be able to complete order successfully" name="Create order as a guest customer" time="73.265824">
+<testcase classname="As a registered or guest user, I want to be able to complete order successfully" name="Create order as a guest customer" time="73.93519">
 <system-out><![CDATA[Given I am on RS Components homepage as guest...............................passed
 When I search for 'battery'.................................................passed
 And I change the quantity of first product to '2'...........................passed
@@ -28,7 +28,7 @@ Then I verify that order review page is displayed...........................pass
 And I verify that order information is correct..............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="As RS customer, I want to be able to apply filters to my search results" name="Check that user can apply single filter on search results page" time="28.011386">
+<testcase classname="As RS customer, I want to be able to apply filters to my search results" name="Check that user can apply single filter on search results page" time="28.226824">
 <system-out><![CDATA[Given I am on RS Components homepage as guest...............................passed
 When I search for 'monitors'................................................passed
 And I select 'Brand' filter named 'Samsung'.................................passed
@@ -37,7 +37,7 @@ And I verify displayed results are correct..................................pass
 And I verify the total search results for the applied filter................passed
 ]]></system-out>
 </testcase>
-<testcase classname="As RS customer, I want to be able to apply filters to my search results" name="Check that user can apply more than one filter on search results page" time="19.29084">
+<testcase classname="As RS customer, I want to be able to apply filters to my search results" name="Check that user can apply more than one filter on search results page" time="19.454797">
 <system-out><![CDATA[Given I am on RS Components homepage as guest...............................passed
 When I search for 'sealants'................................................passed
 And I select 'Brand' filter named 'Geocel'..................................passed
@@ -46,7 +46,7 @@ Then I verify multiple filters has been applied applied correctly...........pass
 And I verify the total search results for the applied filter................passed
 ]]></system-out>
 </testcase>
-<testcase classname="As RS customer, I want to be able to apply filters to my search results" name="Check that user can remove filters" time="20.785568">
+<testcase classname="As RS customer, I want to be able to apply filters to my search results" name="Check that user can remove filters" time="18.938634">
 <system-out><![CDATA[Given I am on RS Components homepage as guest...............................passed
 And I search for 'clock'....................................................passed
 And I select 'Display' filter named 'Analogue'..............................passed

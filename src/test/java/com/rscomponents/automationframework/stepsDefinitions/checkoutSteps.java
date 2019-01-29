@@ -1,7 +1,7 @@
-package com.RSComponentsAutomation.framework.stepsDefinitions;
+package com.rscomponents.automationframework.stepsDefinitions;
 
-import com.RSComponentsAutomation.framework.dataFactory.checkoutData;
-import com.RSComponentsAutomation.framework.pageObjects.*;
+import com.rscomponents.automationframework.dataFactory.checkoutData;
+import com.rscomponents.automationframework.pageObjects.*;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.en.And;

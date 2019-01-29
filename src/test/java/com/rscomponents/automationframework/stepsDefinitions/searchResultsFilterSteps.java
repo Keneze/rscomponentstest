@@ -1,8 +1,7 @@
-package com.RSComponentsAutomation.framework.stepsDefinitions;
+package com.rscomponents.automationframework.stepsDefinitions;
 
-import com.RSComponentsAutomation.framework.dataFactory.searchPageData;
-import com.RSComponentsAutomation.framework.pageObjects.homePage;
-import com.RSComponentsAutomation.framework.pageObjects.searchPage;
+import com.rscomponents.automationframework.dataFactory.searchPageData;
+import com.rscomponents.automationframework.pageObjects.searchPage;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.en.And;

@@ -1,4 +1,4 @@
-package com.RSComponentsAutomation.framework.dataFactory;
+package com.rscomponents.automationframework.dataFactory;
 
 import lombok.Getter;
 import lombok.Setter;
