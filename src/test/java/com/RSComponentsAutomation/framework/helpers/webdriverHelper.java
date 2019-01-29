@@ -1,4 +1,4 @@
-package com.RSComponentsAutomation.framework.frameworkHelpers;
+package com.RSComponentsAutomation.framework.helpers;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.UnexpectedAlertBehaviour;

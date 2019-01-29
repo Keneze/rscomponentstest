@@ -1,8 +1,8 @@
 package com.RSComponentsAutomation.framework.pageObjects;
 
-import com.RSComponentsAutomation.framework.frameworkHelpers.globalHelper;
+import com.RSComponentsAutomation.framework.helpers.globalHelper;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
+
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;

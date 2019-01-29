@@ -1,4 +1,4 @@
-package com.RSComponentsAutomation.framework.frameworkHelpers;
+package com.RSComponentsAutomation.framework.helpers;
 
 import lombok.Getter;
 import org.openqa.selenium.*;
@@ -10,9 +10,9 @@ import java.text.DecimalFormat;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
-import static com.RSComponentsAutomation.framework.frameworkHelpers.webdriverHelper.buildChromeBrowser;
-import static com.RSComponentsAutomation.framework.frameworkHelpers.webdriverHelper.buildFireFoxBrowser;
-import static com.RSComponentsAutomation.framework.frameworkHelpers.webdriverHelper.buildIEBrowser;
+import static com.RSComponentsAutomation.framework.helpers.webdriverHelper.buildChromeBrowser;
+import static com.RSComponentsAutomation.framework.helpers.webdriverHelper.buildFireFoxBrowser;
+import static com.RSComponentsAutomation.framework.helpers.webdriverHelper.buildIEBrowser;
 
 public class globalHelper {
 

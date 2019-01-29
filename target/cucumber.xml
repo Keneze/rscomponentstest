@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="211.215946">
+<testcase classname="As a registered or guest user, I want to be able to complete order successfully" name="As a registered customer I am able to create oder successfully" time="69.862328">
+<system-out><![CDATA[Given I am on RS Components homepage as registered..........................passed
+When I search for 'wires'...................................................passed
+And I add first product to basket from search results.......................passed
+And I navigate to basket summary............................................passed
+And I verify basket information is as expected..............................passed
+And I navigate to checkout..................................................passed
+And I verify delivery information is pre-populated..........................passed
+And I add my card cvv information...........................................passed
+Then I verify I can place order.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="As a registered or guest user, I want to be able to complete order successfully" name="Create order as a guest customer" time="73.265824">
+<system-out><![CDATA[Given I am on RS Components homepage as guest...............................passed
+When I search for 'battery'.................................................passed
+And I change the quantity of first product to '2'...........................passed
+And I add the product to basket from search results.........................passed
+And I navigate to basket summary............................................passed
+And I verify basket information is as expected..............................passed
+And I proceed to checkout as guest..........................................passed
+And I add delivery information..............................................passed
+And I navigate to payment...................................................passed
+And I add 'Visa' payment details............................................passed
+And I navigate to order review..............................................passed
+Then I verify that order review page is displayed...........................passed
+And I verify that order information is correct..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="As RS customer, I want to be able to apply filters to my search results" name="Check that user can apply single filter on search results page" time="28.011386">
+<system-out><![CDATA[Given I am on RS Components homepage as guest...............................passed
+When I search for 'monitors'................................................passed
+And I select 'Brand' filter named 'Samsung'.................................passed
+Then I verify filter is present in filters breadcrumbs correctly............passed
+And I verify displayed results are correct..................................passed
+And I verify the total search results for the applied filter................passed
+]]></system-out>
+</testcase>
+<testcase classname="As RS customer, I want to be able to apply filters to my search results" name="Check that user can apply more than one filter on search results page" time="19.29084">
+<system-out><![CDATA[Given I am on RS Components homepage as guest...............................passed
+When I search for 'sealants'................................................passed
+And I select 'Brand' filter named 'Geocel'..................................passed
+And I select another 'Colour' filter named 'White'..........................passed
+Then I verify multiple filters has been applied applied correctly...........passed
+And I verify the total search results for the applied filter................passed
+]]></system-out>
+</testcase>
+<testcase classname="As RS customer, I want to be able to apply filters to my search results" name="Check that user can remove filters" time="20.785568">
+<system-out><![CDATA[Given I am on RS Components homepage as guest...............................passed
+And I search for 'clock'....................................................passed
+And I select 'Display' filter named 'Analogue'..............................passed
+And I select another 'Battery Type' filter named 'AA'.......................passed
+When I remove all filters...................................................passed
+Then I verify all filters has been removed..................................passed
+]]></system-out>
+</testcase>
+</testsuite>

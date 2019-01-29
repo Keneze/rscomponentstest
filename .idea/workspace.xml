@@ -1,25 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11a74f85-e573-4351-b348-39228a0b1b7f" name="Default Changelist" comment="initial commit">
+    <list default="true" id="11a74f85-e573-4351-b348-39228a0b1b7f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/locales/general.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/general.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/frameworkHelpers/globalHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/helpers/globalHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/helpers/webdriverHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/basketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/basketPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/deliveryDetailsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/deliveryDetailsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/homePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/homePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/orderReviewPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/orderReviewPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/paymentPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/paymentPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/searchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/searchPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/signinPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/signinPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/runners/TestsRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/runner/TestsRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/properties/general.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/properties/general.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/embedded0.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/embedded0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber/embedded1.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/embedded1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/frameworkHelpers/globalHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/frameworkHelpers/globalHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/frameworkHelpers/globalHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/basketPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/basketPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/deliveryDetailsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/deliveryDetailsPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/homePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/homePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/orderReviewPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/orderReviewPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/paymentPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/paymentPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/searchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/searchPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/signinPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/pageObjects/signinPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/runners/TestsRunner.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/stepsDefinitions/checkoutSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/stepsDefinitions/checkoutSteps.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/stepsDefinitions/searchResultsFilterSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/RSComponentsAutomation/framework/stepsDefinitions/searchResultsFilterSteps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/chromedriver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/chromedriver/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/geckodriver/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/geckodriver/geckodriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/iedriver/IEDriverServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lib/iedriver/IEDriverServer.exe" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,24 +49,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="6" />
+          <entry key="properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="6" />
+          <entry key="Properties" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="56" />
-          <entry key="txt" value="15" />
+          <entry key="java" value="74" />
+          <entry key="properties" value="14" />
+          <entry key="txt" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="56" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="JAVA" value="74" />
+          <entry key="PLAIN_TEXT" value="30" />
+          <entry key="Properties" value="14" />
         </counts>
       </usages-collector>
     </session>
@@ -72,7 +87,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/runners/TestsRunner.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/runner/TestsRunner.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
               <caret line="15" selection-start-line="15" selection-end-line="15" />
@@ -80,11 +95,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/helpers/webdriverHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="153">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/basketPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/stepsDefinitions/checkoutSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/helpers/globalHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-852">
+              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/properties/general.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -99,6 +150,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/homePage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/frameworkHelpers/globalHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/helpers/globalHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/properties/general.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/basketPage.java" />
       </list>
     </option>
   </component>
@@ -167,16 +222,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="frameworkHelpers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rscomponents" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rscomponentstest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
-              <item name="runners" type="462c0819:PsiDirectoryNode" />
+              <item name="helpers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rscomponents" type="b2602c69:ProjectViewProjectNode" />
@@ -184,6 +230,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rscomponents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rscomponentstest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="properties" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,8 +247,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548795240482" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548796278047" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Documents\Items\rscomponentstest\src\test\resources\properties" />
+    </key>
   </component>
   <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
     <UpdatedFiles>
@@ -323,12 +382,12 @@
       <module name="rscomponents" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.RSComponentsAutomation.framework.runners.*" />
+          <option name="PATTERN" value="com.RSComponentsAutomation.framework.runner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.RSComponentsAutomation.framework.runners" />
-      <option name="MAIN_CLASS_NAME" value="com.RSComponentsAutomation.framework.runners.TestsRunner" />
+      <option name="PACKAGE_NAME" value="com.RSComponentsAutomation.framework.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.RSComponentsAutomation.framework.runner.TestsRunner" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -347,6 +406,14 @@
       <option name="presentableId" value="Default" />
       <updated>1548790682790</updated>
     </task>
+    <task id="LOCAL-00001" summary="test cleanup">
+      <created>1548795357429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1548795357429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -354,6 +421,18 @@
       <configuration name="TestsRunner" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestsRunner - 2019.01.29 at 19h 51m 47s.xml">
+      <configuration name="TestsRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsRunner - 2019.01.29 at 20h 52m 33s.xml">
+      <configuration name="TestsRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsRunner - 2019.01.29 at 20h 54m 46s.xml">
+      <configuration name="TestsRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsRunner - 2019.01.29 at 21h 09m 45s.xml">
+      <configuration name="TestsRunner" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestsRunner - 2019.01.29 at 21h 14m 48s.xml">
       <configuration name="TestsRunner" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -366,15 +445,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32872504" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -394,7 +473,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="test cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="test cleanup" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/homePage.java">
@@ -404,17 +484,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/runners/TestsRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/runner/TestsRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/frameworkHelpers/webdriverHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/helpers/globalHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="-852">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/properties/general.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/helpers/webdriverHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/stepsDefinitions/checkoutSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/RSComponentsAutomation/framework/pageObjects/basketPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>

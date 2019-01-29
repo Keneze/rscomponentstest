@@ -1,4 +1,4 @@
-package com.RSComponentsAutomation.framework.runners;
+package com.RSComponentsAutomation.framework.runner;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
